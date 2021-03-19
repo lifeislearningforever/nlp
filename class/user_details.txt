@@ -1,0 +1,4 @@
+email,user,password
+abc@gmail.com,abc,abc@123
+xyz@gmail.com,xyz,xyz@123
+test@gmail.com,test,test@123
